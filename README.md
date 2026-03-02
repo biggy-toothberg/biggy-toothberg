@@ -5,7 +5,7 @@ Software Developer focusing on C# and Security Research.
 My previous GitHub account was terminated due to platform conflicts regarding my research projects (BE/EAC). It hosted projects with **200k+ downloads** and **3,000+ stars**.
 
 ### 🏛️ Projects & Research
-* **Antidote:** Kernel-level spoofer (Closed Source / Encrypted).
+* **Antidote:** Kernel-level spoofer (Closed Source / Obfuscated).
 * **Spoofy:** Open Source hardware spoofer.
 * **Waidwerk:** Management system for hunters and wildlife photographers. [waidwerk](https://waidwerk.old.mom/)
 * **Archive:** Project details and downloads at [old.mom](https://old.mom/).
