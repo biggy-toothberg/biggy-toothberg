@@ -7,6 +7,7 @@ My previous GitHub account was terminated due to platform conflicts regarding my
 ### 🏛️ Projects & Research
 * **Antidote:** Kernel-level spoofer (Closed Source / Obfuscated).
 * **Spoofy:** Open Source hardware spoofer.
+* **OPTI-CORE:** Image Intensifier Simulator for Night Vision Devices. [opti-core](https://opti-core.old.mom)
 * **Waidwerk:** Management system for hunters and wildlife photographers. [waidwerk](https://waidwerk.old.mom/)
 * **Archive:** Project details and downloads at [old.mom](https://old.mom/).
 * **OSINT:** Published a threat assessment on [Russian Hybrid Warfare (1980–2025)](https://archive.org/details/osint-threat-assessment-russian-hybrid-warfare-germany-1980-2025).
