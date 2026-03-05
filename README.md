@@ -2,7 +2,7 @@
 
 Software Developer focusing on C# and Security Research. 
 
-My previous GitHub account was terminated due to platform conflicts regarding my research projects (BE/EAC). It hosted projects with **200k+ downloads** and **3,000+ stars**.
+My previous GitHub account was terminated due to platform conflicts regarding my research projects (BE/EAC). It hosted projects with **200k+ downloads** and **1,400+ stars**.
 
 ### 🏛️ Projects & Research
 * **Antidote:** Kernel-level spoofer (Closed Source / Obfuscated).
